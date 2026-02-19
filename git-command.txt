@@ -1,0 +1,16 @@
+git status
+git init
+git status
+git add testing.py
+git status
+git commit -m "adding testing file"
+git status
+git remote add origin https://github.com/jayychavda/github-for-devops.git
+git status
+git remote add origin https://github.com/jayychavda/github-for-devops.git
+git remote -v
+git remote set-url origin https://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@github.com/jayychavda/github-for-devops.git
+git status
+git remote -v
+git push orgin master
+git push origin master
