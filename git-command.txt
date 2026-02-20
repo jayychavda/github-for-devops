@@ -1,4 +1,4 @@
-ggit status
+git status
 git init
 git status
 git add testing.py
@@ -9,48 +9,44 @@ git remote add origin https://github.com/jayychavda/github-for-devops.git
 git status
 git remote add origin https://github.com/jayychavda/github-for-devops.git
 git remote -v
-git remote set-url origin https://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@github.com/jayychavda/github-for-devops.git
+git remote set-url origin https://@github.com/jayychavda/github-for-devops.git
 git status
 git remote -v
 git push orgin master
 git push origin master
 this is some change 
-   3        3.098 git pull
-   4        1.307 branch
-   5        1.351 git branch
-   6        0.167 git branch dev
-   7        0.194 git branch
-   8        0.147 git switch dev
-   9        0.194 git branch
-  10        0.170 git switch master
-  11        0.211 git branch
-  12        0.132 ls
-  13        0.114 git switch dev
-  14        0.201 git branch
-  15        0.023 ls
-  16        3.712 git push origin dev
-  17        0.206 git branch
-  18        0.198 git add this-from-dev-file.txt
-  19        0.247 git commit -m "this add new file"
-  20        0.123 git push
-  21        3.713 git push --set-upstream origin dev
-  22        2.671 git push
-  23        0.120 git switch master
-  24        0.237 git head
-  25        0.162 git HEAD\
-  26        0.146 git HEAD
-  27       21.130 git log
-  28        0.212 git log --oneline
-  29        0.371 history
-  30        1.997 git fetch
-  31        0.193 git branch
-  32        1.140 git fetch
-  33        0.180 git branch
-  34        0.177 git switch hello-dosto
-  35        0.134 git status
-  36        0.129 git switch master
-  37        1.541 git pull
-  38        0.092 git status
-  39        0.151 git add git-command.txt
-  40        0.195 git commit -m "add file"
-  git push
+git pull
+git branch
+git branch dev
+git branch
+git switch dev
+git branch
+git switch master
+git branch
+ls
+git switch dev
+git branch
+ls
+git push origin dev
+git branch
+git add this-from-dev-file.txt
+git commit -m "this add new file"
+git push
+git push --set-upstream origin dev
+ git push
+git switch master
+git log
+git log --oneline
+history
+git fetch
+git branch
+git fetch
+git branch
+git switch hello-dosto
+git status
+git switch master
+git pull
+git status
+git add git-command.txt
+git commit -m "add file"
+git push
