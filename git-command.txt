@@ -14,3 +14,4 @@ git status
 git remote -v
 git push orgin master
 git push origin master
+this is some change 
