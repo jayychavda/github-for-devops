@@ -1,4 +1,4 @@
-git status
+ggit status
 git init
 git status
 git add testing.py
